@@ -50,7 +50,9 @@ Data Processing (Pandas)
 
 Structured Response Generation
 
-📂 Project Structure
+## 📂 Project Structure  
+
+```bash
 ai-car-advisor-arabic-nlp/
 │
 ├── app.py
@@ -60,7 +62,7 @@ ai-car-advisor-arabic-nlp/
 │   └── screenshot.png
 ├── README.md
 └── LICENSE
-📸 Application Preview
+```
 
 ▶️ Installation
 
